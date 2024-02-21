@@ -1,5 +1,5 @@
 # HCI Exams
-Εξετάσεις εργαστηρίου στο μάθημα "Αλληλεπίδραση Ανθρώπου Μηχανής" του χειμερινού εξαμήνου 2013-2014.\
-Περιλαμβάνει ένα NetBeans Project σε γλώσσα Java (Java Swing GUI).\
-Στόχος της εργασίας ήταν η δημιουργία διεπαφής σύνδεσης και εγγραφής ενός χρήστη σε μια εφαρμογή. Ο χρήστης πρέπει πρώτα να δημιουργήσει λογαριασμό και μετά να συνδεθεί. Τα στοιχεία του αποθηκεύονται προσωρινά σε έναν πίνακα (όχι σε database).\
-Ο φάκελος dist περιέχει το εκτελέσιμο αρχείο ```WeekExam.jar```.
+"Human-Machine Interaction" laboratory exams during the winter semester 2013-2014.\
+Includes a NetBeans Project in Java (Java Swing GUI).\
+After the application opens, users enter their login credentials. In case they don't have an account, they can create one, and the application guides them through the process. A table (not a database) stores their information until they close the application.\
+```dist``` folder contains the executable file ```WeekExam.jar```.
